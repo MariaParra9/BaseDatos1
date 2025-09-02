@@ -1,4 +1,4 @@
-# Proyecto: Análisis de Artículos sobre Fraude con Tarjetas
+# [NTD-BD1] Análisis de Artículos sobre Fraude con Tarjetas
 
 Este proyecto tiene como objetivo recopilar y organizar artículos relacionados con fraudes en tarjetas de crédito y débito, con el fin de facilitar su estudio y análisis.
 
